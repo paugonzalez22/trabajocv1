@@ -1,0 +1,33 @@
+body
+{
+    background-color:rgb(205, 16, 151);
+}
+#nombre{
+    border: solid 1px;
+    padding: 8px;
+    color: rgb(21, 7, 173);
+    background: linear-gradient(to bottom,#8a8e94,#a3b41e);
+}
+legend{
+    border: solid 1px;
+    border-radius: 10px;
+    background-color: gray;
+}
+.card-group {
+    padding: 2%;
+    margin: 2%;    
+    align-content: center;
+}
+#iconos
+{    
+    align-content: space-around;
+}
+.container
+{
+    display: flex;
+    width: 50%;
+    height: 200px;
+    margin: auto;
+    justify-content: space-around;
+    align-items: flex-end;
+}
